@@ -1,0 +1,484 @@
+
+.navbar{
+    height: 100px;
+    background-color: #888;
+}
+
+.main-banner{
+    height: 740px;
+}
+
+.banner-cetegory{
+    height: 700px;
+}
+
+.categories{
+    height: 90px;
+    background-color:  rgb(252, 247, 247);
+}
+
+.category-logo-img{
+    border-radius: 50%;
+}
+
+.abc{
+    width: 20px;
+    height: 20px; 
+    background-color: rgb(235, 234, 234);
+    margin-left: 260px;
+    margin-top: -50px;
+    text-align: center;
+}
+
+.font{
+    font-size: 13px;
+}
+
+.custom-slider-item{
+    background-size: cover;
+    background-position: center;
+}
+
+.image-rounded{
+    border-radius: 50%;
+}
+
+.banner-offers{
+    height: 800px;
+}
+
+.backpack-collection{
+    height: 350px;
+    background-size: cover;
+}
+
+.casual-top{
+    height: 370px;
+}
+
+.branded-top{
+    height: 370px;
+}
+
+.img{
+    height: 370px;
+}
+
+.slider{
+    margin-top: 100px !important;
+    height: auto;
+}
+
+.second-slider{
+    height: auto;
+    margin-top: 80px !important;
+}
+
+.splide__arrow--prev{
+    margin-top: -20px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    background-color: white !important;
+}
+
+.splide__arrow--next{
+    margin-top: -20px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    background-color: white !important;
+}
+
+.shop-category{
+    height: 500px;
+    margin-top: 60px !important;
+}
+
+.selling-product{
+    height: 700px;
+}
+
+.flashing-sale{
+    width: 98%;
+    height: 380px;
+    border: 1px solid black;
+}
+
+
+.product{
+    height: 210px;
+}
+
+.selling-product-inner-div{
+    height: 175px;
+}
+
+.selling-product-inner-div:hover{
+    margin-top: -5px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.product-info{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 80%; 
+}
+
+.off{
+    width: 45px;
+    height: 24px;
+    margin-left: 30px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.wrap{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.real-value{
+    margin-top: -40px;
+    margin-left: 60px;
+}
+
+.selling-img{
+    height: 175px;
+}
+
+.back-banner{
+    height: 400px;
+    margin-top: 200px;
+}
+
+.mens{
+    height: 400px;
+}
+
+.backpack{
+    height: 400px;
+    background-size: cover;
+}
+
+.top{
+    margin-top: 100px;
+    height: 1000px;
+}
+
+.mens-coll-img{
+    height: 420px;
+    margin-left: 30px;
+    width: 1300px;
+}
+
+.feature-products{
+    height: 850px;
+}
+
+.featured-samll-product-container{
+    height: 430px;
+}
+
+
+.featured-samll-product{
+    height: 430px;
+    background-color: aliceblue;
+}
+
+.featured-big-img{
+    height: 600px;
+}
+
+.big-imag{
+    height: 885px;
+    background-color: aliceblue;
+}
+
+.cap{
+    margin-top: 125px;
+}
+
+.featured-small-img{
+    height: 270px;
+}
+
+.flash-sale{
+    margin-top: 100px !important;
+    height: 1360px;
+    border: 1px solid black;
+}
+
+.flash-sell-products{
+    height: 410px;
+    /* background-color: rgb(70, 69, 69); */
+}
+
+.flash-sell-content{
+    /* background-color: aquamarine; */
+    height: 400px;
+}
+
+.flash-img{
+    height: 300px;
+}
+
+.new-arrivals-img{
+    height: 400px;
+}
+
+.flash-images{
+    width: 100%;
+    height: 100%;
+}
+
+.images{
+    width: 300px;
+    height: 270px;
+}
+
+.new-arrivals{
+    height: 1650px !important;
+    margin-top: 70px !important;
+}
+
+.new-arrivals-products{
+    height: 510px;
+}
+
+.new-arrivals-content{
+    height: 510px;
+}
+
+.new-arrivals-content:hover{
+    margin-top: -5px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.top-slider{
+    height: auto;
+}
+
+.exclusive-banner{
+    height: 600px;
+    background-color: aliceblue;    
+}
+
+.exclusive-img{
+    height: 100%;
+    width: 90%;
+}
+
+.exxx{
+    margin-top: 500px;
+    margin-left: 310px;
+    width: 300px;
+    background-color: rgb(248, 252, 252);
+    height: 65px;
+}
+
+.exxx:hover{
+    background-color: black;
+    color: white;
+}
+
+.exxxs:hover{
+    background-color: black;
+    color: white;
+}
+
+.exxxs{
+    margin-top: 500px;
+    margin-left: 20px;
+    width: 300px;
+    background-color: rgb(250, 253, 253);
+    height: 65px;
+}
+
+
+.exclusive{
+    height: 580px;
+}
+
+.new-arrivals{
+    height: 1200px;
+}
+
+
+.evething{
+    height: 300px;
+}
+
+.evething-img-container{
+    height: 300px;
+}
+
+.evething-img{
+    width: 100%;
+    height: 100%;
+}
+
+.featured-category{
+    height: 650px;
+    margin-top: 50px !important;
+}
+
+.fe-categories{
+    height: 250px;
+}
+
+.featureee{
+    height: 210px;
+    border: 1px solid #999;
+    background-color: aliceblue;  
+}
+
+.featured-name{
+    margin-left: 35px;
+}
+
+.featured-img-container{
+    height: 110px;
+    max-height: 110px;
+    overflow: hidden;
+}
+
+.featured-img{
+    height: 110px;
+    max-height: 110px;
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    min-width: 100%; 
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+}
+
+.featured-img:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+    min-width: 100%; 
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+}
+
+.img-box{
+    height: 100px;
+    width: 90px;
+    background-color: #eee;
+    margin:5px;
+}
+/* 
+.featured-img-container img:hover img {
+    transform: scale(1.1);
+}
+
+.featured-img-container img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+} */
+
+.sharing-container{
+    height: 500px;
+    margin-top: 100px;
+    background-color: aliceblue;  
+}
+
+.sharing-content-txt{
+    height: 500px;
+}
+
+.apple{
+    width: 200px;
+    height: 60px;
+}
+
+.store-buttons > li{
+    display:inline-block;
+}
+
+.app-container{
+    height: 400px;
+    width: 380px;
+    background-image: url(images/app.png);
+}
+
+.apple:hover{
+    background-color: #999 !important;
+}
+
+
+.sharing{
+    margin-left: 70px;
+}
+
+.sharing-content-img{
+    height: 500px;
+    padding-top: 100px;
+}
+
+.real-person{
+    height: 600px;
+}
+
+.chat-txt{
+    width: 320px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 16px;
+}
+
+.insta{
+    height: 250px;
+}
+
+.insta-container{
+    height: 220px;
+}
+
+.img-container{
+    height: 220px;
+}
+
+.insta-img{
+    height: 100%;
+    width: 100%;
+}
+
+.inbox{
+    height: 150px;
+}
+
+.custom-search{
+    width: 350px !important;
+}
+
+.search-item{
+    display: inline-block;
+    font-size: 14px;
+}
+
+.social-container{
+    height: 300px;
+}
+
+.social-heading{
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.social-links{
+    list-style-type: none;
+    line-height: 2;
+}
+
+.payment-img{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.copyright{
+    height: 50px;
+}
